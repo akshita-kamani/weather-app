@@ -1,0 +1,21 @@
+body{
+    background-image: url("/pexels-binyamin-mellish-108941.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: cursive,Helvetica,Arial,sans-serif;
+
+}
+
+h1{
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+}
+
+form{
+    text-align: center;
+    padding-top: 75px;
+}
+
+
+
